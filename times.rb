@@ -1,4 +1,4 @@
-def using_times(looping_string)
+def using_times
 	7.times do looping_string
 end
 end
